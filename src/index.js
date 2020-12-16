@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
 ReactDOM.render(
-  <Hello />,
+  <Hello greeting={'Greetings!'} />,
   document.getElementById('root')
 );
 
