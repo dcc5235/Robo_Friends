@@ -1,6 +1,7 @@
 import React from 'react';
 import Card from './Card';
 
+// pure components only worry about what is received/returned as a function
 const CardList = ({ robots }) => {
   return (
     <div>
