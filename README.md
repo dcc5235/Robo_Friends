@@ -33,3 +33,23 @@ CardList
 SearchBox
 App
 
+
+# Robo Friends Search  ![GitHub version doc](https://img.shields.io/badge/Version-1.0.0-red) ![GitHub last commit](https://img.shields.io/github/last-commit/dcc5235/Robo_Friends?style=flat-square) 
+
+**HTML5, Tachyons CSS, JavaScript, React**
+
+A responsive, application which utilizes React JS 
+
+![placeholder for photo]()
+
+---
+
+## Installation & Technologies
+- Download the full package, select the Code button, choose the "Download ZIP" option.
+- Requires Node.js: install [Node.js](https://nodejs.org/en/), current version.
+- Install dependencies: run script <code>npm install express nodemon</code>
+  - express helps run web server
+  - nodemon auto restarts web server when project file changes
+- [Bulma](https://bulma.io/) CSS framework required
+
+## Lessons Learned
