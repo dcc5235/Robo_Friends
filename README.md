@@ -1,5 +1,3 @@
-# work in progress
-
 # Robo Friends Search  ![GitHub version doc](https://img.shields.io/badge/Version-1.0.0-red) ![GitHub last commit](https://img.shields.io/github/last-commit/dcc5235/Robo_Friends?style=flat-square) 
 
 **HTML5, Tachyons CSS, JavaScript, React**
@@ -32,14 +30,4 @@ You will also see any lint errors in the console.
 ## RoboHash API 
 
 [RoboHash](https://robohash.org/): web service that makes it easy to provide unique, robot/alien/monster images for any text.
-
----
-
-## Lessons Learned
-
-Card
-CardList
-SearchBox
-App
-
 
