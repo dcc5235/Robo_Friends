@@ -1,10 +1,10 @@
-# Robo Friends Search  ![GitHub version doc](https://img.shields.io/badge/Version-1.0.0-red) ![GitHub last commit](https://img.shields.io/github/last-commit/dcc5235/Robo_Friends?style=flat-square) 
+# Robo Cat Friends Search  ![GitHub version doc](https://img.shields.io/badge/Version-1.0.0-red) ![GitHub last commit](https://img.shields.io/github/last-commit/dcc5235/Robo_Friends?style=flat-square) 
 
 **HTML5, Tachyons CSS, JavaScript, React**
 
-A responsive, application which utilizes React JS to search through a list of Robot Friends from your Robot Contact List. The list of robots is pulled from an API.
+A responsive, application which utilizes React JS to search through a list of Robot Cat Friends from your Cat Contact List. The list of cats is pulled from an API.
 
-![](https://scontent.fdpa1-1.fna.fbcdn.net/v/t1.0-9/131918680_1284155705295601_7514651802763160330_o.jpg?_nc_cat=102&ccb=2&_nc_sid=0debeb&_nc_ohc=P5v5DMBXjiAAX9asY0H&_nc_ht=scontent.fdpa1-1.fna&oh=6ec3db51182aadf63c170f91facd13d3&oe=6000C94E)
+![](https://bit.ly/3hmNCHN)
 
 ---
 
